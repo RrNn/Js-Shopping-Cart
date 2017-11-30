@@ -1,0 +1,12 @@
+@import "../node_modules/bootstrap/dist/css/bootstrap.css";
+
+.bordered {
+  border: 1px dashed lightgrey;
+  border-radius: 0 !important;
+}
+
+button:hover {
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+}
